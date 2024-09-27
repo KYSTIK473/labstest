@@ -1,0 +1,10 @@
+/home/kyst/labs/lab1/tmp/8.py
+/home/kyst/labs/lab1/tmp/5.py
+/home/kyst/labs/lab1/tmp/6.py
+/home/kyst/labs/lab1/tmp/3.py
+/home/kyst/labs/lab1/tmp/10.py
+/home/kyst/labs/lab1/tmp/7.py
+/home/kyst/labs/lab1/tmp/9.py
+/home/kyst/labs/lab1/tmp/2.py
+/home/kyst/labs/lab1/tmp/4.py
+/home/kyst/labs/lab1/tmp/1.py
